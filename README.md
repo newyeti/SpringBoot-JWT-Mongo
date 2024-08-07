@@ -10,8 +10,7 @@
 ## User SignIn Flow
 ![User SignIn Flow](docs/images/spring-boot-refresh-token-jwt-example-flow.png "User SignIn Flow")
 
-
-# Ref
+## Reference
 ```
 https://www.bezkoder.com/spring-boot-jwt-auth-mongodb/
 ```
